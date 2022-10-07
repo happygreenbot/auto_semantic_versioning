@@ -1,0 +1,1 @@
+# auto_semantic_versioning
