@@ -1,0 +1,9 @@
+#!usr/bin/python3
+
+import os
+
+version_file = "config/version_info.py"
+
+os.system("git diff --staged | python3 dev/update_version.py")
+
+os.system("git add " + version_file)
