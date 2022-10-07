@@ -8,3 +8,6 @@ Run the below setup script
 `./setup.sh`
 
 Use `git commit --no-verify` if you wish to skip the hook
+
+## Requirements :
+*python3
