@@ -10,4 +10,4 @@ Run the below setup script
 Use `git commit --no-verify` if you wish to skip the hook
 
 ## Requirements :
-*python3
+* python3
